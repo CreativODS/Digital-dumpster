@@ -1,3 +1,11 @@
+---
+title: "Gentler Futures 2024"
+subtitle: "Towards Urban Self-sufficiency"
+cover: "/images/hero-home.jpg"
+layout: "home"
+---
+
+
 ```yaml
 # Good
 title: "Hola mundo"
@@ -31,12 +39,7 @@ export default function Hero({ title, subtitle, image }) {
   );
 }
 
----
-title: "Gentler Futures 2024"
-subtitle: "Towards Urban Self-sufficiency"
-cover: "/images/hero-home.jpg"
-layout: "home"
----
+
 
 <Hero
   title="Gentler Futures 2024"
