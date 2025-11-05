@@ -1,8 +1,8 @@
 ---
-title: "Gentler Futures 2024"
-subtitle: "Towards Urban Self-sufficiency"
-cover: "/images/hero-home.jpg"
-layout: "home"
+title: CeativODS test101
+subtitle: Prueba 01 día 00
+cover: https://images.unsplash.com/photo-1761582277004-7dd5257b8b49?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=690
+layout: home
 ---
 
 
@@ -55,9 +55,12 @@ export default function Hero({ title, subtitle, image }) {
 <CtaButton href="https://www.tickettailor.com" label="Reserve a spot ↗" />
 
 <Section id="contact">
-  <h2>Contact us</h2>
-  <p>Gentler Futures Festival is a not-for-profit initiative …</p>
+  <h2>Contáctame, necesito dinero</h2>
+  <p>CreativODS donde nos quejamos de todo</p>
   <p>Inquiries ↗ <a href="mailto:...">...</a></p>
 </Section>
+
+
+npm run dev
 
 
